@@ -1,3 +1,3 @@
-# Maths/__init__.py
+# Maths/__init__.py .
 
 from . import mathematics
